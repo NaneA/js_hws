@@ -1,0 +1,44 @@
+.grid{
+    position: absolute;
+    top: 50%;
+    left: 44%;
+   border-radius: 20px;
+    margin-left: -50px;
+   background-color: aqua;
+    position: relative;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    border-color: aqua;
+    border-width: 10px;
+   }
+
+.grid div{
+   
+    width: 20px;
+    height: 20px;
+    border-color: inherit;
+    border-color: black;
+    border-width: 4px;
+   
+}
+
+.tetromino{
+    background-color:blue;
+}
+
+.full{
+    background-color: white;
+}
+
+.n{
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    color:pink;
+ 
+}
+
+
+
